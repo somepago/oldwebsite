@@ -15,10 +15,10 @@ author: Gowthami Somepalli
 
 navbar-links:
   # Projects: "projects/index"
-  Publications: "publications"
-  Blog: "blog/index"
-  News: "news"
-  CV: "/files/cv.pdf"
+#   Publications: "publications"
+#   Blog: "blog/index"
+#   News: "news"
+#   CV: "/files/cv.pdf"
 
 # --- Logo --- #
 
