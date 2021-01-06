@@ -14,7 +14,7 @@ author: Gowthami
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Publications: "aboutme"
+  Publications: "publications"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,11 +42,11 @@ social-network-links:
   email: "gowthami@umd.edu"
 #   facebook: deanattali
   github: somepago
-#   twitter: daattali
+  twitter: gowthami_s
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: gowthamis
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -60,7 +60,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ google-scholar: T2ezBDsAAAAJ
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
