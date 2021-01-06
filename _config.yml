@@ -14,7 +14,7 @@ author: Gowthami Somepalli
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  # Projects: "projects/index"
+  Projects: "projects/index"
 #   Publications: "publications"
 #   Blog: "blog/index"
 #   News: "news"
@@ -27,7 +27,7 @@ navbar-links:
 avatar: "/assets/img/g_dp_crop.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
