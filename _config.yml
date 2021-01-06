@@ -6,19 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Gowthami Somepalli
 
 # Your name to show in the footer
-author: Some Person
+author: Gowthami Somepalli
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "Hello there. I am Gowthami. I am currently a grad student at University of Maryland, College Park."
 
 # --- Logo --- #
 
