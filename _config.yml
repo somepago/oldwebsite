@@ -14,7 +14,7 @@ author: Gowthami
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Publications: "publications"
+  Research: "publications"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,7 +42,7 @@ social-network-links:
   email: "gowthami@umd.edu"
 #   facebook: deanattali
   github: somepago
-#   twitter: daattali
+  twitter: gowthami_s
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  reddit: yourname
