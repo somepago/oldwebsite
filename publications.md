@@ -16,4 +16,4 @@ subtitle: A bit of contribution, here and there.
 
 ## Others
 
-- **Adversarial Robustness of Deep Inpainting Models**: <ins>Gowthami Somepalli</ins>, Phillip Pope, Soheil Feizi.[Link]
+- **Adversarial Robustness of Deep Inpainting Models**: <ins>Gowthami Somepalli</ins>, Phillip Pope, Soheil Feizi.[Link](https://somepago.github.io/pubs/adversarial_inpainting.pdf)
